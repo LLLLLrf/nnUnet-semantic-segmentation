@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0": "CBCT"
+    },
+    "labels": {
+        "background": 0,
+        "Teeth": 1
+    },
+    "numTraining": 12,
+    "file_ending": ".nii.gz"
+}
